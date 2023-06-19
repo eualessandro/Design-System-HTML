@@ -1,0 +1,215 @@
+.property-default-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.property-default-property-default {
+  gap: 10px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.property-default-cards {
+  gap: 12px;
+  width: 300px;
+  height: 188px;
+  display: flex;
+  padding: 16px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-halfunit);
+  border-radius: 8px;
+  padding-right: var(--dl-space-space-halfunit);
+  padding-bottom: var(--dl-space-space-halfunit);
+  background-color: var(--dl-color-default-d900);
+}
+.property-default-vermais {
+  gap: 4px;
+  top: 152px;
+  left: 0px;
+  width: 300px;
+  height: 36px;
+  display: flex;
+  padding: 8px 0;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  padding-bottom: var(--dl-space-space-halfunit);
+  background-color: rgba(72, 101, 129, 1);
+}
+.property-default-value {
+  gap: 194px;
+  top: 8px;
+  left: 12px;
+  width: 276px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.property-default-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Light;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.property-default-arrowrightcircle {
+  width: 16px;
+  height: 16px;
+}
+.property-default-progress-bar {
+  gap: 4px;
+  top: 102px;
+  left: 16px;
+  width: 268px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.property-default-value1 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.property-default-text02 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.property-default-text04 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  text-align: right;
+  line-height: normal;
+}
+.property-default-progress {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.property-default-bg {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-d600);
+}
+.property-default-color-bar {
+  width: 185px;
+  height: 4px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 50px;
+  background-color: var(--dl-color-default-blue);
+}
+.property-default-text06 {
+  top: 73px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 268px;
+  height: auto;
+  position: absolute;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.property-default-header {
+  gap: 4px;
+  top: 28px;
+  left: 16px;
+  width: 268px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.property-default-container1 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.property-default-header1 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.property-default-metavalue-container {
+  gap: 24px;
+  width: 228px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.property-default-text08 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Light;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.property-default-icon-r {
+  gap: 8px;
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: rgba(0, 97, 119, 1);
+}
+.property-default-activity {
+  width: 16px;
+  height: 16px;
+}
+.property-default-star {
+  top: 8px;
+  left: 16px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
